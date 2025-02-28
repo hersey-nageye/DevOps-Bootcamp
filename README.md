@@ -46,5 +46,5 @@ Right now, I’m working through **Linux and Git**, sharpening my command-line s
 
 If you're interested in collaborating or discussing anything DevOps-related, feel free to reach out!  
 
-📧 Email: [YourEmail@example.com]  
-🔗 LinkedIn: [Your LinkedIn Profile]  
+📧 Email: [hersey_nageye1@hotmail.com]  
+🔗 [LinkedIn](https://www.linkedin.com/in/hersey-n-688a7bb1/)  
