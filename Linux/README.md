@@ -69,6 +69,6 @@ Linux is a powerful, open-source operating system kernel that forms the backbone
 
 ## ![📚](https://cdn-icons-png.flaticon.com/32/3159/3159466.png) Resources
 - [OverTheWire: Bandit](https://overthewire.org/wargames/bandit/)
-- [Linux Cheat Sheet](https://www.linuxcommands.io/cheatsheet/)
+- [Linux Cheat Sheet](https://www.geeksforgeeks.org/linux-commands-cheat-sheet/)
 
 This README serves as a reference point for my Linux learning journey, helping me build a solid foundation in DevOps. Happy coding! 🚀
